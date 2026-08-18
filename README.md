@@ -12,11 +12,7 @@ I built this project to practice turning a real-world web design into a Flutter 
 
 ### Contact Sales UI
 
-![Contact Sales UI Preview](preview/contact_sales_preview.png)
-
-🎥 **Video Preview:**
-[Watch the UI demonstration](preview/contact_sales_ui.mp4)
-
+![Mailchimp Contact Page UI](preview/Screenshot%20(70).png)
 ---
 
 ## 🛠️ Built With
